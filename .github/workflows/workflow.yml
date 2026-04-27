@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: CI workflow
 
 on:
@@ -26,3 +27,6 @@ jobs:
 
       - name: Run unit tests with nose
         run: nosetests -v --with-spec --spec-color --with-coverage --cover-package=app
+=======
+
+>>>>>>> 37d670fd51980752338b2475bf2f1d1232c54508
